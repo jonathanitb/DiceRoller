@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="title_text">ITB Gambling</string>
+    <string name="roll_button">Roll the dice</string>
+    <string name="rolled_button">Dice rolled</string>
+    <string name="reiniciar_butto">Return to the first state</string>
+    <string name="roll_dice">ROLL THE DICE"</string>
+</resources>
